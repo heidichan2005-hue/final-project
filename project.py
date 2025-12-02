@@ -73,6 +73,6 @@ for i, book in enumerate(bookshelf):
     print(f"Book {i+1} (L={input_book_sizes[i]}, W={input_book_sizes[i]}, H={input_book_sizes[i]}) 的中心點位置: {book.frame.point}")
 
 # 視覺化 (需要安裝 compas_viewer)
-# viewer = Viewer()
-# viewer.scene.add(bookshelf)
-# viewer.show()
+viewer = Viewer()
+viewer.scene.add(bookshelf)
+viewer.show()
