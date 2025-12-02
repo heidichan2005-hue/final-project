@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-![picture](https://image-cdn.learnin.tw/bnextmedia/image/album/2025-05/img-1748523032-72091.jpg?w=1200&output=webp)
 =======
 ![picture](https://i.pinimg.com/736x/73/70/c9/7370c9221f25c698bd813de20e8308d8.jpg)
 
@@ -16,3 +13,6 @@
     ◦ 將點或球體的位置座標（X, Y, Z）或其他計算結果映射到其顏色 (compas.colors.Color) 或大小（Sphere 的半徑）上，實現數據的視覺化效果。
 可能成果：
 • 創建一個「晶格塔」或「參數化群體」：一個由數百個經過不同旋轉、平移和縮放（cg.Scale） 變形的幾何單元組成的複雜 3D 模型。
+
+# 12/02
+![picture](https://i.pinimg.com/736x/b8/87/88/b88788350b14edb632ae944a03616ef0.jpg)
