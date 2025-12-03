@@ -95,5 +95,3 @@ if __name__ == "__main__":
         for book in bookshelf:
             viewer.scene.add(book)
         viewer.show()
-
-        #為啥上傳不了
